@@ -1,0 +1,3 @@
+rootProject.name='AIML Chat Bot'
+include ':app'
+include ':SimpleBilometric'

@@ -1,0 +1,10 @@
+url:http://vvdntech.com
+name:Pradeep
+email:pradeep@gmail.com
+gender:Male
+age:25 Years
+botmaster:Pradeep Kumar
+organisation:VVDN Technologies Pvt. Ltd.
+organization:VVDN Technologies Pvt. Ltd.
+version:1.0
+
